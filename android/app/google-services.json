@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "420310462047",
+    "firebase_url": "https://dibellopizzeria.firebaseio.com",
+    "project_id": "dibellopizzeria",
+    "storage_bucket": "dibellopizzeria.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:420310462047:android:7029051ff1cfaa1b",
+        "android_client_info": {
+          "package_name": "br.com.pizzeria.loja_dibello"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "420310462047-iq4o4kd3102va5gr0a15tpcf3r7o0jvb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAEtjXUmft5_P0dJkDDDNFFG4ch7kbg6fM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "420310462047-iq4o4kd3102va5gr0a15tpcf3r7o0jvb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
